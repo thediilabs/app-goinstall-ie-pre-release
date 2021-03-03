@@ -1,7 +1,7 @@
 # 고인스톨 기사용 사전 출시 앱 다운로드
 
 ## 안드로이드
-- 최신버전 1.0.12
+- 최신버전 1.0.13
 - 다운로드 [https://drive.google.com/file/d/1xbLZ0Rwa0s23C9poDG5dPeYErm2_8T7Q/view?usp=sharing](https://drive.google.com/file/d/1xbLZ0Rwa0s23C9poDG5dPeYErm2_8T7Q/view?usp=sharing)
 - 앱 설치 시 출처를 알 수 없는 앱 설치 허용이 필요합니다.
 
