@@ -1,11 +1,6 @@
-# 고인스톨 기사용 사전 출시 앱 다운로드
+# 고인스톨 기사용 앱
 
-## 안드로이드
-- 최신버전 1.0.13
-- 다운로드 [https://drive.google.com/file/d/1hUguyG3zh3vD-6WMDDUupnxHptsha1Sq/view?usp=sharing](https://drive.google.com/file/d/1hUguyG3zh3vD-6WMDDUupnxHptsha1Sq/view?usp=sharing)
-- 앱 설치 시 출처를 알 수 없는 앱 설치 허용이 필요합니다.
+앱이 정식으로 출시 되었습니다.
+구글 플레이 스토어에서 다운로드 받으세요.
 
-## iOS
-- 최신버전 1.0.7
-- 다운로드 [https://drive.google.com/file/d/1JN3792kapsQltJahHYvhcXkRUNWLmGNu/view?usp=sharing](https://drive.google.com/file/d/1JN3792kapsQltJahHYvhcXkRUNWLmGNu/view?usp=sharing)
-- 앱 설치는 애플의 정책으로 인해 미리 지정된 사용자만 설치할 수 있습니다. 맥에서 아이폰을 연결한 후 ipa 파일을 아이폰에 옮겨 설치합니다.
+https://play.google.com/store/apps/details?id=kr.co.diilabs.ie
